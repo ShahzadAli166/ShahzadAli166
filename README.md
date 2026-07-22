@@ -1,140 +1,202 @@
+<!-- ========================================================= -->
+<!--                     HERO BANNER                           -->
+<!-- ========================================================= -->
+
 <p align="center">
   <img src="GitHub%20version.png" alt="Mechanical AI Engineer Banner" width="100%">
 </p>
 
-<br>
-# Hi 👋, I'm Shahzad Ali
+<h1 align="center">Hi 👋, I'm Shahzad Ali</h1>
 
-## 🚀 Mechanical AI Engineer
+<h3 align="center">Mechanical AI Engineer</h3>
 
-> **Bridging Traditional Mechanical Engineering with Artificial Intelligence to build the next generation of Intelligent Engineering Systems.**
+<p align="center">
+<b>Where Mechanical Engineering Meets Artificial Intelligence</b>
+</p>
+
+<p align="center">
+
+<!-- Replace YOUR_USERNAME with ShahzadAli166 -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Mechanical+Engineering+Student;Machine+Design+Enthusiast;Exploring+Generative+AI;Building+AI+for+Engineering;Learning+Agentic+AI;Future+Mechanical+AI+Engineer" />
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/ShahzadAli166">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Coming_Soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 # 👨‍💻 About Me
 
-I am a Mechanical Engineering student passionate about combining engineering principles with Artificial Intelligence to solve real-world industrial challenges.
+I am a Mechanical Engineering student with a vision to bridge the gap between traditional engineering and Artificial Intelligence through Generative and Agentic AI.
 
-My vision is to become a **Mechanical AI Engineer** who develops intelligent systems for design, manufacturing, robotics, automation, predictive maintenance, and Industry 4.0.
+My goal is to build intelligent engineering systems that improve how machines are designed, manufactured, inspected, and maintained.
 
-I enjoy building AI-powered engineering applications that transform traditional engineering workflows into intelligent digital solutions.
+I am passionate about Machine Design, Manufacturing, Robotics, Industry 4.0, Digital Twins, Generative AI, and Agentic AI.
 
----
-
-# 🎯 Mission
-
-To bridge Mechanical Engineering and Artificial Intelligence by building intelligent engineering systems that improve:
-
-- ⚙ Machine Design
-- 🏭 Manufacturing
-- 🤖 Robotics & Automation
-- 📊 Engineering Simulation
-- 🔧 Predictive Maintenance
-- 🌐 Industry 4.0
-- 🧠 Generative AI
-- 🤖 Agentic AI
-- 📡 Digital Twins
+Through this GitHub, I document my learning journey and build practical AI-powered engineering solutions for the future.
 
 ---
 
-# ⚙ Engineering Domains
+# ⭐ Featured Expertise
+
+| Domain | Expertise |
+|---------|-----------|
+| ⚙️ Mechanical Engineering | Machine Design • Manufacturing • CAD Modeling • Mechatronics |
+| 🤖 Artificial Intelligence | Large Language Models (LLMs) • Generative AI • RAG • Agentic AI |
+| 🏭 Industry 4.0 | Smart Manufacturing • Robotics • Digital Twins • IoT |
+| 💡 Engineering Solutions | AI for Design • Inspection • Predictive Maintenance • Automation |
+
+---
+
+# 🛠️ Tech Stack
+
+## ⚙️ Mechanical Engineering
 
 - Machine Design
-- Product Design
-- Manufacturing Engineering
+- Engineering Design
+- Manufacturing Processes
 - CAD Modeling
-- Finite Element Analysis
-- Fluid Mechanics
 - Thermodynamics
+- Fluid Mechanics
 - Heat Transfer
 - Mechatronics
-- Industrial Automation
 
 ---
 
-# 🤖 Artificial Intelligence
-
-Currently Learning
+## 🤖 Artificial Intelligence
 
 - Python
+- Generative AI
 - Large Language Models (LLMs)
+- Prompt Engineering
 - Retrieval-Augmented Generation (RAG)
+- Agentic AI
+
+---
+
+## 🏭 Industry 4.0 & Automation
+
+- Robotics
+- Industrial Automation
+- Internet of Things (IoT)
+- Smart Manufacturing
+- Digital Twins
+- Predictive Maintenance
+
+---
+
+## 💻 Programming & Development
+
+- Python
+- Git
+- GitHub
+- Jupyter Notebook
+- Google Colab
+- Hugging Face
+
+---
+
+## 🧰 Engineering & AI Tools
+
+- Autodesk Fusion 360
+- SolidWorks
+- Matlab
+- Arduino IDE
 - LangChain
 - FAISS
-- Agentic AI
-- Prompt Engineering
-- AI Automation
-- Computer Vision
+- Hugging Face
 
 ---
 
-# 🏭 Industry 4.0
+# 🎯 Current Focus
 
-Interested in building intelligent industrial systems using
-
-- IoT
-- Smart Manufacturing
-- Predictive Maintenance
-- Industrial Robotics
-- Automation
-- Digital Twins
-- Industrial AI
+- 🤖 Building AI-powered Engineering Applications
+- 🧠 Learning Generative AI & Agentic AI
+- ⚙️ Applying AI to Mechanical Engineering
+- 🏭 Exploring Industry 4.0 & Smart Manufacturing
+- 🌱 Contributing to Open Source Projects
 
 ---
 
-# 🚀 Current Projects
+# 🚀 Featured Projects
 
-🔹 Mechanical Engineering RAG Assistant
-
-🔹 MechanicalGPT (In Progress)
-
-🔹 AI Engineering Assistant
-
-🔹 AI Manufacturing Advisor
-
-🔹 AI Predictive Maintenance
-
-🔹 Engineering Drawing Assistant
-
-🔹 Multi-Agent Mechanical Engineering System
+| Project | Description | Status |
+|----------|-------------|:------:|
+| 🤖 MechanicalGPT | AI Assistant for Mechanical Engineering | 🚧 Planned |
+| 📚 Engineering RAG | Chat with Engineering Books & Manuals | 🚧 Planned |
+| 🏭 AI Manufacturing Advisor | AI-powered Manufacturing Assistant | 🚧 Planned |
+| 🔧 Predictive Maintenance AI | Intelligent Machine Health Monitoring | 🚧 Planned |
+| 🤖 Agentic Mechanical Engineer | Multi-Agent Engineering Workflow System | 🚧 Planned |
 
 ---
 
-# 📚 Currently Learning
+# 📈 Learning Roadmap
 
-- Mechanical Engineering
-- Generative AI
-- Agentic AI
-- Computer Vision
-- Robotics
-- Industry 4.0
-- Digital Twins
-- AI for Manufacturing
-
----
-
-# 🎓 Long-Term Vision
-
-My goal is to become a **Mechanical AI Engineer** capable of designing intelligent engineering systems that integrate:
-
-- Mechanical Engineering
-- Artificial Intelligence
-- Smart Manufacturing
-- Robotics
-- Industry 4.0
-- Digital Engineering
-
-I believe the future engineer will not only design machines—but also build intelligent systems that enable machines to think, optimize, and learn.
+```text
+Mechanical Engineering
+        │
+        ▼
+Python Programming
+        │
+        ▼
+Generative AI
+        │
+        ▼
+Agentic AI
+        │
+        ▼
+Industry 4.0
+        │
+        ▼
+Mechanical AI Engineer
+```
 
 ---
 
-# 📫 Connect with Me
+# 📊 GitHub Analytics
 
-- GitHub
-- LinkedIn *(Coming Soon)*
-- Hugging Face *(Coming Soon)*
-- Portfolio *(Coming Soon)*
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShahzadAli166&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzadAli166&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ShahzadAli166&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-⭐ *"Designing the Future of Mechanical Engineering with Artificial Intelligence."*
+# 🤝 Connect With Me
+
+- 💻 **GitHub:** https://github.com/ShahzadAli166
+- 💼 **LinkedIn:** Coming Soon
+- 🤗 **Hugging Face:** https://huggingface.co/ShahzadAli166
+- 🌐 **Portfolio Website:** Coming Soon
+
+---
+
+<div align="center">
+
+## ⭐ Where Mechanical Engineering Meets Artificial Intelligence ⭐
+
+*"Building intelligent engineering systems, one project at a time."*
+
+**Thank you for visiting my profile!**
+
+</div>
