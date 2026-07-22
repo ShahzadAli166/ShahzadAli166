@@ -57,6 +57,11 @@ Through this GitHub, I document my learning journey and build practical AI-power
 | 🏭 Industry 4.0 | Smart Manufacturing • Robotics • Digital Twins • IoT |
 | 💡 Engineering Solutions | AI for Design • Inspection • Predictive Maintenance • Automation |
 
+
+<p align="center">
+  <img src="./assets/ecosystem.svg" alt="Mechanical AI Engineer Ecosystem" width="100%">
+</p>
+
 ---
 
 # 🛠️ Tech Stack
@@ -127,7 +132,9 @@ Through this GitHub, I document my learning journey and build practical AI-power
 - 🏭 Exploring Industry 4.0 & Smart Manufacturing
 - 🌱 Contributing to Open Source Projects
 
----
+--- <p align="center">
+  <img src="./assets/projects.svg" alt="Engineering Project Ecosystem" width="100%">
+</p>
 
 # 🚀 Featured Projects
 
