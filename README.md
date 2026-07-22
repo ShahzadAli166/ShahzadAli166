@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="GitHub%20version.png" alt="Mechanical AI Engineer Banner" width="100%">
+</p>
+
+<br>
 # Hi 👋, I'm Shahzad Ali
 
 ## 🚀 Mechanical AI Engineer
